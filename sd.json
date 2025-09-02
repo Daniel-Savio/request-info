@@ -1,7 +1,12 @@
 {
+    "comercial":["Luís Lopes", "Gilberto Amorim","Rodrigo Silva", "Márcio Costa", "Lucas Frítoli", "Vinícius Santos"],
+    "processamento":["Carlos Bezerra", "Daniela Novaes", "Roque Barone"],
     "SD": [
         "SDG",
         "SD+",
-        "SDV"
+        "SDV",
+        "SDM",
+        "SDV_v2",
+        "SDB"
     ]
 }
