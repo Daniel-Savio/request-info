@@ -1,12 +1,17 @@
 {
     "comercial":["Luís Lopes", "Gilberto Amorim","Rodrigo Silva", "Márcio Costa", "Lucas Frítoli", "Vinícius Santos"],
     "processamento":["Carlos Bezerra", "Daniela Novaes", "Roque Barone"],
-    "SD": [
+    "sd": [
         "SDG",
         "SD+",
         "SDV",
         "SDM",
         "SDV_v2",
         "SDB"
-    ]
+    ],
+    "entradas":["TCP/IP", "71-72", "74-75", "71-72-73"],
+    "protocolos_entrada": ["Modbus", "DNP3"],
+    "protocolos_entrada": ["Modbus", "DNP3", "IEC61850", "AMQP"],
+    "ied":["BM", "TM"],
+    "ied_terceiros":[{"nome": "MasterTemp","fabricante" "Electron"}]
 }
