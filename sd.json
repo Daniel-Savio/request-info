@@ -3,11 +3,7 @@
     "processamento":["Carlos Bezerra", "Daniela Novaes", "Roque Barone"],
     "sd": [
         "SDG",
-        "SD+",
-        "SDV",
-        "SDM",
-        "SDV_v2",
-        "SDB"
+        "SD+"
     ],
     "entradas":["TCP/IP", "71-72", "74-75", "71-72-73"],
     "protocolos_entrada": ["Modbus", "DNP3"],
